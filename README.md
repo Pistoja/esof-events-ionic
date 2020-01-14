@@ -11,4 +11,4 @@ Dev mode:
 
 Production mode:
 * `npm run build`
-* `onic build`
+* `ionic build`
